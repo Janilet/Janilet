@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janilet
 - 👀 I’m interested in software project management
-- 🌱 I’m currently learning to make web application
+- 🌱 I’m currently learning to make web application and VR application
 - 📫 Reach me at janilet.rodriguez@upr.edu
 
 <!---
